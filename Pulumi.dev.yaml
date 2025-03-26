@@ -1,0 +1,5 @@
+config:
+  Dev_lab08:errorDocument: error.html
+  Dev_lab08:indexDocument: index.html
+  Dev_lab08:path: ./www
+  aws:region: us-west-2
